@@ -4,6 +4,8 @@
 
 Nesse projeto fiz um jogo do super mario, assistindo um tutorial do Youtube do canal Manual do Dev!
 
+Link: https://jogo-supermario-simples.vercel.app/
+
 #### 🔹 Technologies Used:
 - HTML
 - CSS
